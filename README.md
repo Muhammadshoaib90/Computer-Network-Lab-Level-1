@@ -17,8 +17,12 @@ This repository serves as a complete beginner-friendly record of foundational ne
 
 ---
 
+---
+
 ## 📂 Folder Structure
 
+
+```
 CN_Level 01
 │
 ├── CN-LEVEL01.docx           # Word file containing screenshots & documentation
@@ -31,6 +35,8 @@ CN_Level 01
 ```
 
 ---
+
+
 
 ## 🧪 Level 01 Tasks Completed
 
