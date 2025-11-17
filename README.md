@@ -6,7 +6,7 @@ This repository contains all work, tasks, practical labs, and documentation comp
 
 ## 📌 Repository Name
 
-`Computer_Network_Lab_Level_1`
+`Computer-Network-Lab-Level-1`
 
 ---
 
