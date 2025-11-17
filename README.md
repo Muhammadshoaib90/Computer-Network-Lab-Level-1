@@ -19,9 +19,6 @@ This repository serves as a complete beginner-friendly record of foundational ne
 
 ## 📂 Folder Structure
 
-Below is the correct folder structure based on your provided screenshot:
-
-```
 CN_Level 01
 │
 ├── CN-LEVEL01.docx           # Word file containing screenshots & documentation
